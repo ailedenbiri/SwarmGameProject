@@ -285,7 +285,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.6, y: 0.6, z: 0.6}
+  m_LocalScale: {x: 0.7, y: 0.7, z: 0.7}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 7717014689053622980}
@@ -328,6 +328,8 @@ MonoBehaviour:
   dashSpeed: 15
   dashDuration: 1
   dashVFX: {fileID: 2330377194579732238}
+  dashTextVFX: {fileID: 0}
+  gameManager: {fileID: 0}
 --- !u!114 &154912459144036228
 MonoBehaviour:
   m_ObjectHideFlags: 0
