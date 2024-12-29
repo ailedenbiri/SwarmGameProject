@@ -2052,7 +2052,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &621422735
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4149,10 +4149,6 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
-    - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
-      propertyPath: m_UseGravity
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 8292497828678313182, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_Name
       value: Enemy
@@ -5260,11 +5256,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
---- !u!1 &1741206193 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2330377194579732238, guid: aeced9cde873b1149bccc60a2eece577, type: 3}
-  m_PrefabInstance: {fileID: 2113480198}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1749201890
 GameObject:
   m_ObjectHideFlags: 0
@@ -6192,10 +6183,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
-    - target: {fileID: 3546548183427325999, guid: aeced9cde873b1149bccc60a2eece577, type: 3}
-      propertyPath: dashVFX
-      value: 
-      objectReference: {fileID: 1741206193}
     - target: {fileID: 3546548183427325999, guid: aeced9cde873b1149bccc60a2eece577, type: 3}
       propertyPath: dashTextVFX
       value: 

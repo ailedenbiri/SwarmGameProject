@@ -2051,6 +2051,9 @@ MonoBehaviour:
   stoppingDistance: 1
   moveSpeed: 3
   minDistanceBetweenEnemies: 1
+  damageDistance: 2
+  damageAmount: 3
+  damageCooldown: 2
 --- !u!54 &6449530142923507501
 Rigidbody:
   m_ObjectHideFlags: 0
