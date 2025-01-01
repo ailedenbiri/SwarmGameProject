@@ -1,44 +1,40 @@
 using System.Collections;
 using UnityEngine;
-using TMPro;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
-
-    public TMP_Text dashMessageText; // TMP_Text bileþeni
+    public static GameManager Instance; // Singleton yapýsý
 
     private void Awake()
     {
-        if (dashMessageText != null)
+        // Singleton kontrolü
+        if (Instance == null)
         {
-            dashMessageText.gameObject.SetActive(false); // Baþlangýçta metni gizle
+            Instance = this;
+            DontDestroyOnLoad(gameObject); // Sahne deðiþiminde GameManager'ý yok etme
+        }
+        else
+        {
+            Destroy(gameObject);
         }
     }
 
-    public void ShowDashMessage(float duration)
+    // Bir sonraki sahneyi yükle
+    public void LoadNextLevel()
     {
-        if (dashMessageText != null)
+        int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+
+        if (currentSceneIndex + 1 < SceneManager.sceneCountInBuildSettings)
         {
-            StartCoroutine(FlashDashText(duration));
+            SceneManager.LoadScene(currentSceneIndex + 1);
         }
-    }
-
-    private IEnumerator FlashDashText(float duration)
-    {
-        float elapsedTime = 0f;
-        bool isVisible = false;
-
-        while (elapsedTime < duration)
+        else
         {
-            isVisible = !isVisible; // Görünürlüðü deðiþtir
-            dashMessageText.gameObject.SetActive(isVisible);
-
-            yield return new WaitForSeconds(0.5f); // Yanýp sönme aralýðý
-
-            elapsedTime += 0.5f;
+            Debug.Log("Son sahne. Oyun bitti!");
+            // Oyun sonu ekraný veya menüsü açýlabilir
         }
-
-        dashMessageText.gameObject.SetActive(false); // Süre bitiminde metni gizle
     }
 }
+
 

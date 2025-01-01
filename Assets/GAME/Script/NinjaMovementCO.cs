@@ -109,5 +109,13 @@ public class NinjaMovementCO : MonoBehaviour
 
         closestEnemy = nearestEnemy;
     }
+
+    private void OnTriggerEnter(Collider other)
+        {
+            if (other.CompareTag("NextLevel")) // Oyuncunun çarpýþmasýný kontrol et
+            {
+                GameManager.Instance.LoadNextLevel(); // GameManager'daki metodu çaðýr
+            }
+        }
 }
 

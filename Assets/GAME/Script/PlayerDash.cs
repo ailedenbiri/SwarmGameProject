@@ -19,6 +19,7 @@ public class PlayerDash : MonoBehaviour
     private Coroutine dashTimerCoroutine;
 
     public GameManager gameManager; // GameManager referansý
+    public UIManager uiManager;
 
     private void Awake()
     {
@@ -68,7 +69,7 @@ public class PlayerDash : MonoBehaviour
 
         if (gameManager != null)
         {
-            gameManager.ShowDashMessage(dashEnableTime); // Dash süresi boyunca mesajý göster
+            uiManager.ShowDashMessage(dashEnableTime); // Dash süresi boyunca mesajý göster
         }
 
         if (dashTimerCoroutine != null)

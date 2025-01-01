@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Enemy
   - DashTrigger
+  - FxTemporaire
+  - NextLevel
   layers:
   - Default
   - TransparentFX
