@@ -3,7 +3,7 @@ using System.Collections;
 
 public class NinjaMovementCO : MonoBehaviour
 {
-    [SerializeField] private float moveSpeed = 5f;
+   public float moveSpeed = 5f;
     [SerializeField] private Animator animator;
     [SerializeField] private PlayerShootingCO playerShooting;
                      private float rotationSpeed = 5f;
