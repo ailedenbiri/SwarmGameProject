@@ -311,6 +311,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -386,6 +402,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -662,6 +694,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -837,6 +885,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -902,6 +966,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -972,6 +1052,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -1284,6 +1380,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -1449,6 +1561,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -1665,6 +1793,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -1893,6 +2037,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -1958,6 +2118,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -2114,6 +2290,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -2434,6 +2626,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -2693,6 +2901,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 8292497828678313182, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_Name
       value: Enemy (3)
@@ -2809,6 +3033,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -3472,6 +3712,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -3547,6 +3803,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -3698,6 +3970,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -3763,6 +4051,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -3985,6 +4289,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -4050,6 +4370,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -4120,6 +4456,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -4556,6 +4908,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 8292497828678313182, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_Name
       value: Enemy (30)
@@ -4622,6 +4990,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -4692,6 +5076,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -5008,6 +5408,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -5196,6 +5612,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -5261,6 +5693,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -5331,6 +5779,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -5396,6 +5860,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -5461,6 +5941,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -5627,6 +6123,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -5810,6 +6322,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 8292497828678313182, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_Name
       value: Enemy
@@ -5876,6 +6404,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -6195,6 +6739,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -6579,6 +7139,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -6762,6 +7338,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -6918,6 +7510,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -6988,6 +7596,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -7053,6 +7677,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -7118,6 +7758,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -7269,6 +7925,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -7334,6 +8006,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -7399,6 +8087,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -7469,6 +8173,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 8292497828678313182, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_Name
       value: Enemy (15)
@@ -7530,6 +8250,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -7595,6 +8331,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -7665,6 +8417,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 8292497828678313182, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_Name
       value: Enemy (33)
@@ -7731,6 +8499,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -7944,6 +8728,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -8122,6 +8922,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -8512,6 +9328,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -8656,6 +9488,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -8736,6 +9584,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -8801,6 +9665,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -8871,6 +9751,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -8936,6 +9832,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -9277,6 +10189,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -9428,6 +10356,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 8292497828678313182, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_Name
       value: Enemy (59)
@@ -9627,6 +10571,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 418798663}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageAmount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: rotationSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4985642405206811766, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
+      propertyPath: damageCooldown
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6449530142923507501, guid: cb0bc9fdaa31925418d07244bcff61cc, type: 3}
       propertyPath: m_UseGravity
       value: 0
